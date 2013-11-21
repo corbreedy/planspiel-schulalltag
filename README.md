@@ -1,2 +1,4 @@
 planspiel-schulalltag
 =====================
+
+Bitte lesen..
